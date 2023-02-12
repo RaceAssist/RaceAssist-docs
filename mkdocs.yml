@@ -6,7 +6,9 @@ theme:
   favicon: https://github.com/RaceAssist/RaceAssist-web/blob/main/public/favicon.png?raw=true
   icon:
     repo: fontawesome/brands/git-alt
-    
+  features:
+    - navigation.tabs
+    - content.code.copy
   palette: 
     - scheme: default
       primary : blue
@@ -25,3 +27,4 @@ plugins:
       lang: ja
 repo_url: https://github.com/RaceAssist/RaceAssist-core
 repo_name: RaceAssist-core
+copyright: Copyright &copy; 2023 Nikomaru
